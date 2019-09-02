@@ -32,7 +32,7 @@ Pada Jobsheet kali ini tidak asing karena pernah diajarkan waktu semester yang l
 
 ![](img/HASIL2.png)
 
-(../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+(../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 
 ## Pertanyaan
 
