@@ -68,7 +68,7 @@ Jawaban : Merek, Kecepatan, Gear
 
 ## Kesimpulan
 
-Pendapat saya materi Jobsheet Pertama ini mengajarkan yang semester lalu saya kurang paham dan ketelitian dalam membuat laporan yang lebih detail dan baku
+Pendapat saya materi Jobsheet Pertama ini mengajarkan semester lalu yang saya kurang paham dan ketelitian dalam membuat laporan yang lebih detail dan baku
 
 ## Pernyataan Diri
 
