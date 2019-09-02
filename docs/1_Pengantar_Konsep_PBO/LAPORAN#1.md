@@ -14,11 +14,11 @@ Pada Jobsheet kali ini tidak asing karena pernah diajarkan waktu semester yang l
 
 ![](img/SEPEDA.png)
 
-laporan-praktikum-pbo/src/1_Pengantar_Konsep_PBO/Sepeda.java
+(../../src/1_Pengantar_Konsep_PBO/Sepeda.java)
 
 ![](img/SEPEDADEMO.png)
 
-laporan-praktikum-pbo/src/1_Pengantar_Konsep_PBO/SepedaMain.java
+(../../src/1_Pengantar_Konsep_PBO/Sepeda.java)
 
 ![](img/HASIL1.png)
 
