@@ -14,11 +14,14 @@ Pada Jobsheet kali ini tidak asing karena pernah diajarkan waktu semester yang l
 
 ![](img/SEPEDA.png)
 
+(../../src/1_Pengantar_Konsep_PBO/Sepeda.java)
+
 ![](img/SEPEDADEMO.png)
+
+(../../src/1_Pengantar_Konsep_PBO/SepedaMain.java)
 
 ![](img/HASIL1.png)
 
-(../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 ### Percobaan 2
 
