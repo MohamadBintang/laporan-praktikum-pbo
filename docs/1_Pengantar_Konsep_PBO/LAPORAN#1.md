@@ -18,7 +18,7 @@ Pada Jobsheet kali ini tidak asing karena pernah diajarkan waktu semester yang l
 
 (img/HASIL1.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+(../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 ### Percobaan 2
 
@@ -29,7 +29,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 (img/HASIL2.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+(../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 ## Pertanyaan
 
@@ -37,9 +37,8 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 Jawaban : merupakan pemograman yang berorientasikan kepada objek. Semua data dan fungsi di dalam paradigma ini dibungkus dalam kelas-kelas atau objek-objek. Setiap objek dapat menerima pesan, memproses data, dan mengirim pesan ke objek lainnya. Model data berorientasi objek dikatakan dapat memberi fleksibilitas yang lebih, kemudahan mengubah program, dan digunakan luas dalam teknik piranti lunak skala besar.
 
 2. Apa yang dinaksud dengan object dan apa bedanya dengan class? 
-Jawaban : Pengertian object adalah entitas dasar saat runtime. pada saat kode program dieksekusi, objek berinteraksi satu sama lain tanpa harus mengetahui detil data atau kodenya. 
- 
-Perbedaan : Class  - Class merupakan sebuah rancangan 
+Jawaban : Pengertian object adalah entitas dasar saat runtime. pada saat kode program dieksekusi, objek berinteraksi satu sama lain tanpa harus mengetahui detil data atau kodenya. Perbedaan : 
+            Class  - Class merupakan sebuah rancangan 
                    - Class bersifat abstract 
             Object - Object Merupakan perwujudan suatu class 
                    - Object bersifat konkrit 
