@@ -37,18 +37,12 @@ Pada Jobsheet kali ini tidak asing karena pernah diajarkan waktu semester yang l
 Jawaban : merupakan pemograman yang berorientasikan kepada objek. Semua data dan fungsi di dalam paradigma ini dibungkus dalam kelas-kelas atau objek-objek. Setiap objek dapat menerima pesan, memproses data, dan mengirim pesan ke objek lainnya. Model data berorientasi objek dikatakan dapat memberi fleksibilitas yang lebih, kemudahan mengubah program, dan digunakan luas dalam teknik piranti lunak skala besar.
 
 2. Apa yang dinaksud dengan object dan apa bedanya dengan class? 
-Jawaban : Pengertian object adalah entitas dasar saat runtime. pada saat kode program dieksekusi, objek berinteraksi satu sama lain tanpa harus mengetahui detil data atau kodenya. Perbedaan : 
-            Class  - Class merupakan sebuah rancangan 
-                   - Class bersifat abstract 
-            Object - Object Merupakan perwujudan suatu class 
-                   - Object bersifat konkrit 
+Jawaban : Pengertian object adalah entitas dasar saat runtime. pada saat kode program dieksekusi, objek berinteraksi satu sama lain tanpa harus mengetahui detil data atau kodenya. Perbedaan : Class merupakan sebuah rancangan, Object Merupakan perwujudan suatu class
                    
 3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandikan dengan pemrograman struktural! Jawaban : Relasi obyek dengan entitas umumnya dapat di mapping dengan baik seperti kondisi pada dunia nyata dan keterkaitan dalam sistem. Hal ini memudahkan dalam mehami desain yang Memungkinkan adanya perubahan dan kepercayaan diri yang tinggi terhadap kebernaran software yang membantu untuk mengurangi resiko pada pembangunan sistem yang kompleks. 
 
 4. Pada class Sepeda, terdapat state/atribut apa saja? 
-Jawaban : - Merek
-          - Kecepatan
-          - Gear
+Jawaban : Merek, Kecepatan, Gear
           
 5. Tambahkan atribut warna pada class Sepeda. 
 
