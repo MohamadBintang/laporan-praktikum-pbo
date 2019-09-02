@@ -12,22 +12,22 @@ Pada Jobsheet kali ini tidak asing karena pernah diajarkan waktu semester yang l
 
 ### Percobaan 1
 
-![](img/SEPEDA.PNG)
+![](img/SEPEDA.png)
 
-![](img/SEPEDADEMO.PNG)
+![](img/SEPEDADEMO.png)
 
-![](img/HASIL1.PNG)
+![](img/HASIL1.png)
 
 (../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 ### Percobaan 2
 
 
-![](img/SEPEDAGUNUNG.PNG)
+![](img/SEPEDAGUNUNG.png)
 
-![](img/SEPEDAMAIN.PNG)
+![](img/SEPEDAMAIN.png)
 
-![](img/HASIL2.PNG)
+![](img/HASIL2.png)
 
 (../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
@@ -46,21 +46,21 @@ Jawaban : Merek, Kecepatan, Gear
           
 5. Tambahkan atribut warna pada class Sepeda. 
 
-![](img/SEPEDA5.PNG)
+![](img/SEPEDA5.png)
 
-![](img/SEPEDADEMO5.PNG)
+![](img/SEPEDADEMO5.png)
 
-![](img/warna.PNG)
+![](img/warna.png)
 
 (../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 ## Tugas
 
-![](img/MAHASISWA.PNG)
+![](img/MAHASISWA.png)
 
-![](img/JENISMAHASISWA.PNG)
+![](img/JENISMAHASISWA.png)
 
-![](img/MAHASISWAPOLINEMA.PNG)
+![](img/MAHASISWAPOLINEMA.png)
 
 (../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
