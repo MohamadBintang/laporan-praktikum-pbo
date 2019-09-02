@@ -14,11 +14,11 @@ Pada Jobsheet kali ini tidak asing karena pernah diajarkan waktu semester yang l
 
 ![](img/SEPEDA.png)
 
-(../../src/1_Pengantar_Konsep_PBO/Sepeda.java)
+[Sepeda](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)
 
 ![](img/SEPEDADEMO.png)
 
-(../../src/1_Pengantar_Konsep_PBO/Sepeda.java)
+[SepedaMain](../../src/1_Pengantar_Konsep_PBO/SepedaMain.java)
 
 ![](img/HASIL1.png)
 
@@ -28,11 +28,14 @@ Pada Jobsheet kali ini tidak asing karena pernah diajarkan waktu semester yang l
 
 ![](img/SEPEDAGUNUNG.png)
 
+[SepedaGunung](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
+
 ![](img/SEPEDAMAIN.png)
+
+[SepedaMain](../../src/1_Pengantar_Konsep_PBO/SepedaMain.java)
 
 ![](img/HASIL2.png)
 
-(../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 
 ## Pertanyaan
 
@@ -55,19 +58,23 @@ Jawaban : Merek, Kecepatan, Gear
 
 ![](img/warna.png)
 
-(../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 ## Tugas
 
 ![](img/MAHASISWA.png)
 
+[Mahasiswa](../../src/1_Pengantar_Konsep_PBO/Mahasiswa.java)
+
 ![](img/JENISMAHASISWA.png)
+
+[JenisMahasiswa](../../src/1_Pengantar_Konsep_PBO/JenisMahasiswa.java)
 
 ![](img/MAHASISWAPOLINEMA.png)
 
+[MahasiswaPolinema](../../src/1_Pengantar_Konsep_PBO/MahasiswaPolinema.java)
+
 ![](img/HASIL3.png)
 
-(../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 ## Kesimpulan
 
