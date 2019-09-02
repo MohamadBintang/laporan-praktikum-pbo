@@ -62,6 +62,8 @@ Jawaban : Merek, Kecepatan, Gear
 
 ![](img/MAHASISWAPOLINEMA.png)
 
+![](img/HASIL3.png)
+
 (../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 ## Kesimpulan
