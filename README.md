@@ -12,7 +12,7 @@
 |--|--|
 | NIM | ***1841720007*** |
 | Nama Lengkap | ***MOHAMAD BINTANG SATRIAVI*** |
-| Kelas | (**TI-2D**) |
+| Kelas | **TI-2D** |
 
 
 ## Komponen Penilaian Laporan Praktikum
