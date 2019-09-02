@@ -1,52 +1,79 @@
 # Laporan Praktikum #1 - Pengantar Konsep PBO
 
 ## Kompetensi
-
-(ketiklah kompetensi tiap praktikum di sini)
+1. Perbedaan pradigma berorientasi objek dengan paradigma struktural
+2. Konsep dasar PBO
 
 ## Ringkasan Materi
 
-(berisi catatan penting pribadi selama praktikum berlangsung ataupun menemukan permasalahan khusus saat melakukan percobaan)
+Pada Jobsheet kali ini tidak asing karena pernah diajarkan waktu semester yang lalu dan sedikit mengulang
 
 ## Percobaan
 
 ### Percobaan 1
 
-(berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+(img/SEPEDA.PNG)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+(img/SEPEDADEMO.PNG)
 
-![contoh screenshot](img/contoh-schot1.PNG)
+(img/HASIL1.PNG)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 ### Percobaan 2
 
-(berisi penjelasan percobaan 2. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+(img/SEPEDAGUNUNG.PNG)
 
-![contoh screenshot](img/contoh-schot1.PNG)
+(img/SEPEDAMAIN.PNG)
+
+(img/HASIL2.PNG)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 ## Pertanyaan
 
-(silakan ketik pertanyaan di sini beserta jawabannya.)
+1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek! 
+Jawaban : merupakan pemograman yang berorientasikan kepada objek. Semua data dan fungsi di dalam paradigma ini dibungkus dalam kelas-kelas atau objek-objek. Setiap objek dapat menerima pesan, memproses data, dan mengirim pesan ke objek lainnya. Model data berorientasi objek dikatakan dapat memberi fleksibilitas yang lebih, kemudahan mengubah program, dan digunakan luas dalam teknik piranti lunak skala besar.
+
+2. Apa yang dinaksud dengan object dan apa bedanya dengan class? 
+Jawaban : Pengertian object adalah entitas dasar saat runtime. pada saat kode program dieksekusi, objek berinteraksi satu sama lain tanpa harus mengetahui detil data atau kodenya. 
+ 
+Perbedaan : Class  - Class merupakan sebuah rancangan 
+                   - Class bersifat abstract 
+            Object - Object Merupakan perwujudan suatu class 
+                   - Object bersifat konkrit 
+                   
+3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandikan dengan pemrograman struktural! Jawaban : Relasi obyek dengan entitas umumnya dapat di mapping dengan baik seperti kondisi pada dunia nyata dan keterkaitan dalam sistem. Hal ini memudahkan dalam mehami desain yang Memungkinkan adanya perubahan dan kepercayaan diri yang tinggi terhadap kebernaran software yang membantu untuk mengurangi resiko pada pembangunan sistem yang kompleks. 
+
+4. Pada class Sepeda, terdapat state/atribut apa saja? 
+Jawaban : - Merek
+          - Kecepatan
+          - Gear
+          
+5. Tambahkan atribut warna pada class Sepeda. 
+
+(img/SEPEDA5.PNG)
+
+(img/SEPEDADEMO5.PNG)
+
+(img/warna.PNG)
+
+(../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 ## Tugas
 
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+(img/MAHASISWA.PNG)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+(img/JENISMAHASISWA.PNG)
 
-![contoh screenshot](img/contoh-schot1.PNG)
+(img/MAHASISWAPOLINEMA.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+(../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 ## Kesimpulan
 
-(Berisi simpulan yang telah diperoleh selama praktikum atau belajar pada pertemuan ini)
+Pendapat saya materi Jobsheet Pertama ini mengajarkan yang semester lalu saya kurang paham dan ketelitian dalam membuat laporan yang lebih detail dan baku
 
 ## Pernyataan Diri
 
@@ -56,4 +83,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(silakan isi nama lengkap di sini)***
+***(MOHAMAD BINTANG SATRIAVI)***
