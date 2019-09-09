@@ -29,7 +29,7 @@ Class dan Object
 pada percobaan ini, membuat sebuah class diagram dimana ada sebuah data karyawan dimana tiap karyawan memiliki id,nama,jenis kelamin,jabatan,dan gaji. Dan dapat menampilkan data diri pribadi dan melihat gajinya.
 #### class Diagram
 
-![Percobaan 1](img/Percobaan1.PNG)
+![Percobaan 1](img/Percobaan1.png)
 
 2. Sebutkan Class apa saja yang bisa dibuat dari studi kasus 1!
 
@@ -56,7 +56,7 @@ Pada percobaan tersebut, membuat sebuah program berdasarkan class diagram , yait
 
 #### Class Mahasiswa1841720007BINTANG
 
-![Mahasiswa](img/Mahasiswa.PNG)
+![Mahasiswa](img/Mahasiswa.png)
 
 Contoh link kode program : [Mahasiswa1841720007BINTANG](../../src/2_Class_dan_Object/Mahasiswa1841720007BINTANG.java)
 
@@ -65,7 +65,7 @@ Contoh link kode program : [Mahasiswa1841720007BINTANG](../../src/2_Class_dan_Ob
 Setelah membuat program class Mahasiswa, selanjutnya membuat class main, yaitu sebuah instance dari class Mahasiswa.
 
 
-![Mahasiswa Main](img/TestMahasiswa.PNG)
+![Mahasiswa Main](img/TestMahasiswa.png)
 
 Contoh link kode program : [TestMahasiswa1841720007BINTANG](../../src/2_Class_dan_Object/TestMahasiswa1841720007BINTANG.java)
 
@@ -109,13 +109,13 @@ Pada percobaan ini mahasiswa diharapkan membuat pemrograman dengan Class Barang 
 
 #### Class Barang1841720007BINTANG
 
-![Barang](img/Barang.PNG)
+![Barang](img/Barang.png)
 
 Contoh link kode program : [Barang1841720007BINTANG](../../src/2_Class_dan_Object/Barang1841720007BINTANG.java)
 
 #### Class TestBarang1841720007BINTANG
 
-![Barang Main](img/TestBarang.PNG)
+![Barang Main](img/TestBarang.png)
 
 Contoh link kode program : [TestBarang1841720007BINTANG](../../src/2_Class_dan_Object/TestBarang1841720007BINTANG.java)
 
@@ -139,17 +139,17 @@ Return adalah kata kunci untuk mengembalikan atau mengelluarkan suatu nilai, met
 
 #### 1. Diagram persewaan vidio game
 
-![Diagram Tugas](img/DiagramTugas.PNG)
+![Diagram Tugas](img/DiagramTugas.png)
 
 #### 2. Class Penyewaan
 
-![Penyewaan](img/Penyewaan.PNG)
+![Penyewaan](img/Penyewaan.png)
 
 Contoh link kode program : [Penyewaan1841720007BINTANG](../../src/2_Class_dan_Object/Penyewaan1841720007BINTANG.java)
 
 ##### Class main Penyewaan
 
-![Penyewaan Main](img/PenyewaanMain.PNG)
+![Penyewaan Main](img/PenyewaanMain.png)
 
 Contoh link kode program : [PenyewaanMain1841720007BINTANG](../../src/2_Class_dan_Object/PenyewaanMain1841720007BINTANG.java)
 
@@ -160,13 +160,13 @@ Contoh link kode program : [PenyewaanMain1841720007BINTANG](../../src/2_Class_da
 
 #### 3. Class Lingkaran
 
-![Lingkaran](img/Lingkaran.PNG)
+![Lingkaran](img/Lingkaran.png)
 
 Contoh link kode program : [Lingkaran1841720007BINTANG](../../src/2_Class_dan_Object/Lingkaran1841720007BINTANG.java)
 
 ##### Class Main Lingkaran
 
-![Lingkaran Main](img/LingkaranMain.PNG)
+![Lingkaran Main](img/LingkaranMain.png)
 
 Contoh link kode program : [LingkaranMain1841720007BINTANG](../../src/2_Class_dan_Object/LingkaranMain1841720007BINTANG.java)
 
@@ -178,13 +178,13 @@ Contoh link kode program : [LingkaranMain1841720007BINTANG](../../src/2_Class_da
 
 #### 4. Class Tugas Diskon 
 
-![Diskon](img/Diskon.PNG)
+![Diskon](img/Diskon.png)
 
 Contoh link kode program : [DISKON1841720007BINTANG](../../src/2_Class_dan_Object/DISKON1841720007BINTANG.java)
 
 ##### Class Main Tugas Diskon
 
-![DiskonMain](img/DiskonMain.PNG)
+![DiskonMain](img/DiskonMain.png)
 
 Contoh link kode program : [TestDiskon1841720007BINTANG](../../src/2_Class_dan_Object/TestDiskon1841720007BINTANG.java)
 
