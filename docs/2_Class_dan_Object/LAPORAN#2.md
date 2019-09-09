@@ -195,7 +195,7 @@ Contoh link kode program : [TestDiskon1841720007BINTANG](../../src/2_Class_dan_O
 
 ## Kesimpulan
 
-Jadi dari pembelajaran tersebut kita dapat memahami deskripsi class dan object, implementasi dari class tersebut, dan implementasi dari method, proses intansiasi, try-catch. kita juga dapat memahami proses pemodelan class diagram menggunakan UML.
+Jadi dari pembelajaran tersebut kita dapat memahami deskripsi class dan object, implementasi dari class tersebut, dan implementasi dari method, proses intansiasi, try-catch.
 
 ## Pernyataan Diri
 
