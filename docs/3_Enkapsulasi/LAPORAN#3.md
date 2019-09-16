@@ -31,6 +31,9 @@ Didalam percobaan enkapsulasi, buatlah class Motor yang memiliki atribut kecepat
 - Class main, MotorDemo1841720007Bintang.java
 ![contoh screenshot](img/MotorDemo.png)
 
+- Hasil MotorDemo1841720007Bintang.java
+![contoh screenshot](img/HasilMotor.png)
+
 
 ### Percobaan 2
 
@@ -44,6 +47,9 @@ Pada percobaan ini akan digunakan access modifier untuk memperbaiki cara kerja c
 
 - Class main MotorDemo1841720007Bintang.java
 ![contoh screenshot](img/MotorDemo2.png)
+
+- Hasil MotorDemo1841720007Bintang.java
+![contoh screenshot](img/HasilMotor2.png)
 
 ***LINK INI ADALAH GABUNGAN DARI PERCOBAAN 1 & 2***
 [MotorDemo1841720007Bintang.java](../../src/3_Enkapsulasi/MotorDemo1841720007Bintang.java)
@@ -69,6 +75,9 @@ Misalkan di sebuah sistem informasi koperasi, terdapat class Anggota. Anggota me
 - Class main, KoperasiDemo1841720007Bintang.java
 ![contoh screenshot](img/KoperasiDemo.png)
 
+- Hasil KoperasiDemo1841720007Bintang.java
+![contoh screenshot](img/HasilKoperasi.png)
+
 ### Percobaan 4
 
 - Class Anggota1841720007Bintang.java
@@ -79,6 +88,9 @@ Misalkan di sebuah sistem informasi koperasi, terdapat class Anggota. Anggota me
 
 - Class main, KoperasiDemo1841720007Bintang.java
 ![contoh screenshot](img/KoperasiDemo2.png)
+
+- Hasil KoperasiDemo21841720007Bintang.java
+![contoh screenshot](img/HasilKoperasi2.png)
 
 ***LINK INI ADALAH GABUNGAN DARI PERCOBAAN 1 & 2***
 [KoperasiDemo1841720007Bintang.java](../../src/3_Enkapsulasi/KoperasiDemo1841720007Bintang.java)
@@ -124,6 +136,9 @@ Misalkan di sebuah sistem informasi koperasi, terdapat class Anggota. Anggota me
 - Class main, EncapTest1841720007Bintang.java
 ![contoh screenshot](img/EncapTest.png)
 
+- Hasil EncapTest1841720007Bintang.java
+![contoh screenshot](img/HasilEncap.png)
+
 2. Pada program diatas, pada class EncapTest kita mengeset age dengan nilai 35, namun pada saat ditampilkan ke layar nilainya 30, jelaskan mengapa.
 - Karena pada method setAgeBintang terdapat percabangan yang didalamnya berisi bila nilai dari atribut age lebih dari 30 maka nilai age akan menjadi 30
 
@@ -138,6 +153,9 @@ Misalkan di sebuah sistem informasi koperasi, terdapat class Anggota. Anggota me
 - Class main, EncapTest1841720007Bintang.java
 ![contoh screenshot](img/EncapTest2.png)
 
+- Hasil EncapTest1841720007Bintang.java
+![contoh screenshot](img/HasilEncap2.png)
+
 ***LINK INI ADALAH GABUNGAN DARI TUGAS 1 & 2***
 [EncapTest1841720007Bintang.java](../../src/3_Enkapsulasi/EncapTest1841720007Bintang.java)
 
@@ -149,22 +167,31 @@ Misalkan di sebuah sistem informasi koperasi, terdapat class Anggota. Anggota me
 - Class main, KoperasiTest1841720007.java
 ![contoh screenshot](img/KoperasiTest.png)
 
+- Hasil KoperasiTest1841720007Bintang.java
+![contoh screenshot](img/HasilKoperasi1.png)
+
 5. Modifikasi soal no. 4 agar nominal yang dapat diangsur minimal adalah 10% dari jumlah pinjaman saat ini. Jika mengangsur kurang dari itu, maka muncul peringatan “Maaf, angsuran harus 10% dari jumlah pinjaman”.
 
 - Class Koperasi1841720007Bintang.java
 ![contoh screenshot](img/Koperasi2.png)
 
-***LINK INI ADALAH HASIL MODIFIKASI DARI TUGAS 4 & 5***[Koperasi1841720007Bintang.java](../../src/3_Enkapsulasi/Koperasi1841720007Bintang.java)
+***LINK INI ADALAH HASIL MODIFIKASI DARI TUGAS 4 & 5***
+[Koperasi1841720007Bintang.java](../../src/3_Enkapsulasi/Koperasi1841720007Bintang.java)
 
 - Class main, KoperasiTest1841720007.java
 ![contoh screenshot](img/KoperasiTest2.png)
 
-***LINK INI ADALAH HASIL MODIFIKASI DARI TUGAS 4 & 5***[KoperasiTest1841720007.java](../../src/3_Enkapsulasi/KoperasiTest1841720007.java)
+- Hasil KoperasiTest1841720007Bintang.java
+![contoh screenshot](img/HasilKoperasi3.png)
+
+***LINK INI ADALAH HASIL MODIFIKASI DARI TUGAS 4 & 5***
+[KoperasiTest1841720007.java](../../src/3_Enkapsulasi/KoperasiTest1841720007.java)
 
 6. Modifikasi class TestKoperasi, agar jumlah pinjaman dan angsuran dapat menerima input dari console.
 
 - Class main, KoperasiTest1841720007.java
 ![contoh screenshot](img/KoperasiTest3.png)
+
 
 ## Kesimpulan
 
