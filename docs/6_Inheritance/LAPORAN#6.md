@@ -21,11 +21,11 @@ Inheritance atau pewarisan sifat merupakan suatu cara untuk menurunkan suatu cla
 
 Link Kode Program : [ClassA 1841720007Bintang](../../src/6_Inheritance/ClassA1841720007Bintang.java)
 
-![Percobaan 1](img/P1.2.PNG)
+![Percobaan 1](img/P1.2.png)
 
 Link Kode Program : [ClassB 18417200007Bintang](../../src/6_Inheritance/ClassB1841720007Bintang.java)
 
-![Percobaan 1](img/Hasil1.PNG)
+![Percobaan 1](img/Hasil1.png)
 
 Link Kode Program : [Main1841720098Bintang](../../src/6_Inheritance/Main1841720007Bintang.java)
 
@@ -51,11 +51,11 @@ Link Kode Program : [Main1841720098Bintang](../../src/6_Inheritance/Main18417200
 
 Link Kode Program : [Percobaan 2A](../../src/6_Inheritance/Percobaan2A1841720007Bintang.java)
 
-![Percobaan 2](img/P2.1.PNG)
+![Percobaan 2](img/P2.1.png)
 
 Link Kode Program : [Percobaan 2B](../../src/6_Inheritance/Percobaan2B1841720007Bintang.java)
 
-![Percobaan 2](img/Hasil2.PNG)
+![Percobaan 2](img/Hasil2.png)
 
 Link Kode Program : [Main Percobaan](../../src/6_Inheritance/Main21841720007Bintang.java)
 
@@ -71,15 +71,15 @@ Jawab :
 ## Percobaan 3
 (Pada percobaan 3 kita mendemonstrasikan bagaimana menggunakan super)
 
-![Percobaan 3](img/P3.PNG)
+![Percobaan 3](img/P3.png)
 
 Link Kode Program : [Bangun1841720007Bintang](../../src/6_Inheritance/Bangun1841720007Bintang.java)
 
-![Percobaan 3](img/P3.1.PNG)
+![Percobaan 3](img/P3.1.png)
 
 Link Kode Program : [Tabung1841720007Bintang](../../src/6_Inheritance/Tabung1841720007Bintang.java)
 
-![Percobaan 3](img/Hasil3.PNG)
+![Percobaan 3](img/Hasil3.png)
 
 Link Kode Program : [Percobaan31841720007Bintang](../../src/6_Inheritance/Main31841720007Bintang.java)
 
@@ -100,19 +100,19 @@ Link Kode Program : [Percobaan31841720007Bintang](../../src/6_Inheritance/Main31
 ## Percobaan 4
 (Pada percobaan 4 kita mendemonstrasikan bagaimana menggunakan super konstruktor)
 
-![Percobaan 4](img/P4.PNG)
+![Percobaan 4](img/P4.png)
 
 Link Kode Program : [ClassA41841720007Bintang](../../src/6_Inheritance/ClassA41841720007Bintang.java)
 
-![Percobaan 4](img/P4.1.PNG)
+![Percobaan 4](img/P4.1.png)
 
 Link Kode Program : [ClassB41841720007Bintang](../../src/6_Inheritance/ClassB41841720007Bintang.java)
 
-![Percobaan 4](img/P4.2.PNG)
+![Percobaan 4](img/P4.2.png)
 
 Link Kode Program : [ClassC41841720007Bintang](../../src/6_Inheritance/ClassC41841720007Bintang.java)
 
-![Percobaan 4](img/Hasil4.PNG)
+![Percobaan 4](img/Hasil4.png)
 
 Link Kode Program : [Percobaan41841720007Bintang](../../src/6_Inheritance/Percobaan41841720007Bintang.java)
 
@@ -144,19 +144,19 @@ Jawab :
 ## Percobaan 5
 (Pada percobaan 5 kita mendemonstrasikan bagaimana melakukan semua percobaan sebelumnya)
 
-![Percobaan 5](img/P5.PNG)
+![Percobaan 5](img/P5.png)
 
 Link Kode Program : [Karyawan1841720098Bintang](../../src/6_Inheritance/Karyawan1841720007Bintang.java)
 
-![Percobaan 5](img/P5.1.PNG)
+![Percobaan 5](img/P5.1.png)
 
 Link Kode Program : [Manager1841720007Bintang](../../src/6_Inheritance/Manager1841720007Bintang.java)
 
-![Percobaan 5](img/P5.2.PNG)
+![Percobaan 5](img/P5.2.png)
 
 Link Kode Program : [Staff1841720007Bintang](../../src/6_Inheritance/Staff1841720007.java)
 
-![Percobaan 5](img/Hasil5.PNG)
+![Percobaan 5](img/Hasil5.png)
 
 ### Pertanyaan Percobaan 5
 1.	Sebutkan class mana yang termasuk super class dan sub class dari percobaan 1 diatas!
@@ -184,15 +184,15 @@ Link Kode Program : [Staff1841720007Bintang](../../src/6_Inheritance/Staff184172
 ## Percobaan 6
 (Pada percobaan 6 kita menambahkan class Staff Tetap dan Staff Harian)
 
-![Percobaan 6](img/P6.PNG)
+![Percobaan 6](img/P6.png)
 
 Link Kode Program : [Staff Tetap 1841720007Bintang](../../src/6_Inheritance/StaffTetap1841720007Bintang.java)
 
-![Percobaan 6](img/P6.1.PNG)
+![Percobaan 6](img/P6.1.png)
 
 Link Kode Program : [Staff Harian 1841720007Bintang](../../src/6_Inheritance/StaffHarian1841720007Bintang.java)
 
-![Percobaan 6](img/Hasil6.PNG)
+![Percobaan 6](img/Hasil6.png)
 
 Link Kode Program : [Inheritance 1 1841720007Bintang](../../src/6_Inheritance/Inheritance1841720007Bintang.java)
 
@@ -226,22 +226,22 @@ Terlihat dipotongan program diatas atribut gaji, lembur dan potongan dapat diaks
 (Buatlah sebuah	program dengan konsep pewarisan	seperti pada class diagram berikut ini.Kemudian	buatlah instansiasi objek untuk menampilkan data pada classMac Windows dan Pc!)
 
 
-![Tugas](img/T1.PNG)
+![Tugas](img/T1.png)
 Link Kode Program : [Komputer1841720007Bintang](../../src/6_Inheritance/Komputer1841720007Bintang.java)
 
-![Tugas](img/T1.2.PNG)
+![Tugas](img/T1.2.png)
 Link Kode Program : [Laptop1841720007Bintang](../../src/6_Inheritance/Laptop1841720007Bintang.java)
 
-![Tugas](img/T1.3.PNG)
+![Tugas](img/T1.3.png)
 Link Kode Program : [PC1841720007Bintang](../../src/6_Inheritance/PC1841720007Bintang.java)
 
-![Tugas](img/T1.4.PNG)
+![Tugas](img/T1.4.png)
 Link Kode Program : [Mac1841720007Bintang](../../src/6_Inheritance/Mac1841720007Bintang.java)
 
-![Tugas](img/T1.5.PNG)
+![Tugas](img/T1.5.png)
 Link Kode Program : [Windows1841720007Bintang](../../src/6_Inheritance/Windows1841720007Bintang.java)
 
-![Tugas](img/HasilTugas.PNG)
+![Tugas](img/HasilTugas.png)
 Link Kode Program : [MainTugas1841720007Bintang](../../src/6_Inheritance/MainTugas1841720007Bintang.java)
 
 
