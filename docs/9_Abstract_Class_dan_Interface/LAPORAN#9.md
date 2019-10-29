@@ -118,7 +118,7 @@ jawab :
 
 #### IBerprestasi
 
-![iberprestasi](img/Iberprestasi.png)
+![iberprestasi](img/iberprestasi.png)
 [IBerprestasi1841720007Bintang](../../src/9_Abstract_Class_dan_Interface/IBerprestasi1841720007Bintang.java)
 
 #### Pascasarjana2
