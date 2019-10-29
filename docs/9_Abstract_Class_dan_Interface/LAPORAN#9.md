@@ -118,12 +118,12 @@ jawab :
 
 #### IBerprestasi
 
-![iberprestasi](img/iBerprestasi.png)
+![iberprestasi](img/Iberprestasi.png)
 [IBerprestasi1841720007Bintang](../../src/9_Abstract_Class_dan_Interface/IBerprestasi1841720007Bintang.java)
 
 #### Pascasarjana2
 
-![pascasarjana2](img/pascasarjana2.png)
+![pascasarjana2](img/PascaSarjana2.png)
 
 [Pascasarjana2_18417200007Bintang(../../src/9_Abstract_Class_dan_Interface/Pascasarjana2_1841720007Bintang.java)
 
