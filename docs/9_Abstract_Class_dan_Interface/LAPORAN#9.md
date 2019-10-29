@@ -18,30 +18,30 @@ Setelah menyelesaikan lembar kerja ini mahasiswa diharapkan mampu:
 
 #### Hewan 
 
-![hewan](img/hewan.PNG)
+![hewan](img/hewan.png)
 [Hewan1841720007Bintang(../../src/9_Abstract_Class_dan_Interface/Hewan1841720007Bintang.java)
 
 #### Kucing
 
-![kucing1](img/kucing.PNG)
+![kucing1](img/kucing.png)
 
 [Kucing1841720007Bintang](../../src/9_Abstract_Class_dan_Interface/Kucing1841720007Bintang.java)
 
 #### Ikan
 
-![ikan](img/ikan.PNG)
+![ikan](img/ikan.png)
 
 [Ikan1841720007Bintang](../../src/9_Abstract_Class_dan_Interface/Ikan1841720007Bintang.java)
 
 #### Orang
 
-![Orang](img/orang.PNG)
+![Orang](img/orang.png)
 
 [Orang1841720007Bintang](../../src/9_Abstract_Class_dan_Interface/Orang1841720007Bintang.java)
 
 #### Program main
 
-![program](img/program.PNG)
+![program](img/program.png)
 
 [Program1841720007Bintang](../../src/9_Abstract_Class_dan_Interface/Program1841720007Bintang.java)
 
@@ -56,36 +56,36 @@ Tidak
 
 #### ICumlaude 
 
-![icumlaude](img/ICumlaude.PNG)
+![icumlaude](img/ICumlaude.png)
 [ICumlaude1841720007Bintang](../../src/9_Abstract_Class_dan_Interface/Icumlaude1841720007Bintang.java)
 
 #### Mahasiswa
 
-![mahasiswa](img/mahasiswa.PNG)
+![mahasiswa](img/mahasiswa.png)
 
 [Mahasiswa1841720007Bintang](../../src/9_Abstract_Class_dan_Interface/Mahasiswa18417200007Bintang.java)
 
 #### Sarjana
 
-![sarjana1](img/sarjana.PNG)
+![sarjana1](img/sarjana.png)
 
 [Sarjana1841720007Bintang](../../src/9_Abstract_Class_dan_Interface/Sarjana1841720007Bintang.java)
 
 #### Pascasarjana
 
-![pascasarjana](img/PascaSarjana.PNG)
+![pascasarjana](img/PascaSarjana.png)
 
 [PascaSarjana1841720007Bintang](../../src/9_Abstract_Class_dan_Interface/PascaSarjana1841720007Bintang.java)
 
 #### Rektor
 
-![rektor](img/rektor.PNG)
+![rektor](img/rektor.png)
 
 [Rektor1841720007Bintang](../../src/9_Abstract_Class_dan_Interface/Rektor1841720007Bintang.java)
 
 #### Program main
 
-![program2](img/program2.PNG)
+![program2](img/program2.png)
 
 [Program2_18417200007Bintang](../../src/9_Abstract_Class_dan_Interface/Program2_18417200007Bintang.java)
 
@@ -118,30 +118,30 @@ jawab :
 
 #### IBerprestasi
 
-![iberprestasi](img/iBerprestasi.PNG)
+![iberprestasi](img/iBerprestasi.png)
 [IBerprestasi1841720007Bintang](../../src/9_Abstract_Class_dan_Interface/IBerprestasi1841720007Bintang.java)
 
 #### Pascasarjana2
 
-![pascasarjana2](img/pascasarjana2.PNG)
+![pascasarjana2](img/pascasarjana2.png)
 
 [Pascasarjana2_18417200007Bintang(../../src/9_Abstract_Class_dan_Interface/Pascasarjana2_1841720007Bintang.java)
 
 #### Rektor
 
-![rektor2](img/rektor.PNG)
+![rektor2](img/rektor.png)
 
 [Rektor1841720007Bintang](../../src/9_Abstract_Class_dan_Interface/Rektor1841720007Bintang.java)
 
 #### Pascasarjana
 
-![pascasarjana](img/pascasarjana.PNG)
+![pascasarjana](img/pascasarjana.png)
 
 [PascaSarjana1841720007Bintang](../../src/9_Abstract_Class_dan_Interface/PascaSarjana1841720007Bintang.java)
 
 #### Program main
 
-![program3](img/program3.PNG)
+![program3](img/program3.png)
 
 [Program3_1841720007Bintang](../../src/9_Abstract_Class_dan_Interface/Program3_1841720007Bintang.java)
 
@@ -151,7 +151,7 @@ jawab :
 
 jawab :
 
-![pertanyaan3](img/program3.PNG)
+![pertanyaan3](img/program3.png)
 
 ## Kesimpulan
 
