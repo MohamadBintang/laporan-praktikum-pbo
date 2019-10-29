@@ -135,7 +135,7 @@ jawab :
 
 #### Pascasarjana
 
-![pascasarjana](img/pascasarjana.png)
+![pascasarjana](img/PascaSarjana.png)
 
 [PascaSarjana1841720007Bintang](../../src/9_Abstract_Class_dan_Interface/PascaSarjana1841720007Bintang.java)
 
