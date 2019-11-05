@@ -26,7 +26,7 @@ Ketika ada objek yang dideklarasikan dari suatu interface, maka ia bisa digunaka
 
 #### employe
 
-![employe](img/employe.png)
+![employe](img/Employe.png)
 [Employee1841720007Bintang](../../src/10_Polimorfisme/Employee1841720007Bintang.java)
 
 #### Payable
