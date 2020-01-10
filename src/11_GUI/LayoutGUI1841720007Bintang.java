@@ -2,10 +2,6 @@ package manajemenlayout;
 
 import javax.swing.JFrame;
 
-/**
- *
- * @author Reza Rinaldi
- */
 public class LayoutGUI1841720007Bintang
 {
     public static void main(String[] args) 
