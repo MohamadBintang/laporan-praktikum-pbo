@@ -2,7 +2,7 @@ package hellogui;
 
 import javax.swing.*;
 
-public class HelloGui1841720078Reza
+public class HelloGui1841720007Bintang
 {
     /**
      * @param args the command line arguments
