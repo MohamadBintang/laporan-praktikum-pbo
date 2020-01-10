@@ -4,10 +4,7 @@ import javax.swing.table.DefaultTableModel;
 import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeModel;
 
-/**
- *
- * @author Reza Rinaldi
- */
+
 public class Swing2_1841720007Bintang extends javax.swing.JFrame
 {
     private String mNama, mHobi, mNoHp, mUsia;
