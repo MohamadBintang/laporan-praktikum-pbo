@@ -1,9 +1,6 @@
 package jti.polinema.gui.tugas._1841720007Bintang;
 
-/**
- *
- * @author Reza Rinaldi
- */
+
 public class Kalkulator1841720007Bintang extends javax.swing.JFrame
 {
     private float mConvert;
