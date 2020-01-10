@@ -1,9 +1,5 @@
 package hellogui;
 
-/**
- *
- * @author Reza Rinaldi
- */
 import javax.swing.*;
 
 public class HelloGui1841720078Reza
