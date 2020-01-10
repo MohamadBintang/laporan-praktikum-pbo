@@ -2,10 +2,6 @@ package percobaangui;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Reza Rinaldi
- */
 public class Swing1841720007Bintang extends javax.swing.JFrame
 {
     /**
